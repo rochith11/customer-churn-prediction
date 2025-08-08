@@ -8,9 +8,25 @@ Customer churn is a major challenge in the telecom industry. This project predic
 - Pandas, NumPy, Matplotlib, Seaborn
 - Scikit-learn (Logistic Regression, Random Forest)
 
-## 📊 Results
-- Accuracy: ~94%
-- Implemented ML pipelines for reproducibility
+## 📊 Model Results
+
+- **Best Model:** Random Forest Classifier
+- **Accuracy:** 94% (Test Data)
+- **Precision / Recall / F1-score:** See classification report in notebook
+  - **Feature Importance:**
+  
+  ![Feature Importance](images/feature_importance.png)
+  
+- **Confusion Matrix From Logistic Regressor:**
+  
+  ![Confusion Matrix](images/confusion_matrix_1.png)
+
+- **Confusion Matrix From Random Forest:**
+  
+  ![Confusion Matrix](images/confusion_matrix.png)
+  
+
+---
 
 ## 📂 Structure
 - `data/` → Datasets
