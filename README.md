@@ -15,7 +15,6 @@ Customer churn is a major challenge in the telecom industry. This project predic
 ## 📂 Structure
 - `data/` → Datasets
 - `notebooks/` → Jupyter notebooks
-- `src/` → Python scripts
 
 ## 📜 License
 MIT License © 2025 Rochith Phutane
