@@ -9,7 +9,7 @@ Customer churn is a major challenge in the telecom industry. This project predic
 - Scikit-learn (Logistic Regression, Random Forest)
 
 ## 📊 Results
-- Accuracy: ~88%
+- Accuracy: ~94%
 - Implemented ML pipelines for reproducibility
 
 ## 📂 Structure
